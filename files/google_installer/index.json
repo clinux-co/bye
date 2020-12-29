@@ -1,29 +1,28 @@
 {
     "app_version":202012291,
-    "url_path":"https://static.clinux.co/files/google_installer/",
     "f":{
         "30":{
-            "url":"apks/framework/30b.apk",
+            "url":"https://github.com/clinux-co/x_google_installer/releases/download/google_2020_12_29/framework_30.apk",
             "version_name":"armeabi-v7a 11",
             "min_api":30,
             "note":"注意：该版本在部部分设备无法正常安装。（常见于基于Android11的Miui）"
         },
         "29":{
-            "url":"apks/framework/29.apk",
+            "url":"https://github.com/clinux-co/x_google_installer/releases/download/google_2020_12_29/framework_29.apk",
             "version_name":"armeabi-v7a 10",
             "min_api":29
         }
     },
     "s":{
         "204713063":{
-            "url":"apks/services/204713063.apk",
+            "url":"https://github.com/clinux-co/x_google_installer/releases/download/google_2020_12_29/services_204713063.apk",
             "version_name":"armeabi-v7a 20.47.13 (110306-344095733)",
             "min_api":27
         }
     },
     "st":{
         "82321110":{
-            "url":"apks/store/82321110.apk",
+            "url":"https://github.com/clinux-co/x_google_installer/releases/download/google_2020_12_29/store_82321110.apk",
             "version_name":"armeabi-v7a 23.2.11-21 [0] [PR] 347100967",
             "min_api":21
         }
