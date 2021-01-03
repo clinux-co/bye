@@ -5,7 +5,7 @@
             "url":"https://github.com/clinux-co/x_google_installer/releases/download/google_2020_12_29/framework_30.apk",
             "version_name":"armeabi-v7a 11",
             "min_api":30,
-            "note":"注意：该版本在部部分设备无法正常安装。（常见于基于Android11的Miui）"
+            "note":"注意：该版本在部分设备无法正常安装。（常见于基于Android11的MIUI）"
         },
         "29":{
             "url":"https://github.com/clinux-co/x_google_installer/releases/download/google_2020_12_29/framework_29.apk",
