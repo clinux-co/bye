@@ -23,6 +23,11 @@
             "url":"https://github.com/clinux-co/x_google_installer/releases/download/google_2020_12_29/services_204713063.apk",
             "version_name":"armeabi-v7a 20.47.13 (110306-344095733)",
             "min_api":27
+        },
+        "204714063":{
+            "url":"https://github.com/clinux-co/x_google_installer/releases/download/4714/com.google.android.gms_20.47.14_.110306-349456378.-204714063_minAPI27.armeabi-v7a.320dpi._apkmirror.com.apk",
+            "version_name":"armeabi-v7a 20.47.14 (110306-349456378)",
+            "min_api":27
         }
     },
     "st":{
