@@ -9,12 +9,12 @@
         },
         "29":{
             "url":"https://github.com/clinux-co/x_google_installer/releases/download/google_2020_12_29/framework_29.apk",
-            "version_name":"armeabi-v7a 10",
+            "version_name":"10",
             "min_api":29
         },
         "28":{
             "url":"https://github.com/clinux-co/x_google_installer/releases/download/api28/f28.apk",
-            "version_name":"armeabi-v7a 9",
+            "version_name":"9",
             "min_api":28
         }
     },
