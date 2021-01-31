@@ -19,16 +19,6 @@
         }
     },
     "s":{
-        "204714063":{
-            "url":"https://github.com/clinux-co/x_google_installer/releases/download/4714/com.google.android.gms_20.47.14_.110306-349456378.-204714063_minAPI27.armeabi-v7a.320dpi._apkmirror.com.apk",
-            "version_name":"armeabi-v7a 20.47.14 (110306-349456378)",
-            "min_api":27
-        },
-        "205016063":{
-            "url":"https://github.com/clinux-co/x_google_installer/releases/download/205016063/com.google.android.gms_20.50.16_.110306-351607135.-205016063_minAPI27.armeabi-v7a.320dpi._apkmirror.com.apk",
-            "version_name":"armeabi-v7a 20.50.16 (110306-351607135)",
-            "min_api":27
-         },
          "210214037":{
             "url":"https://github.com/clinux-co/x_google_installer/releases/download/210214037/com.google.android.gms_21.02.14_.120400-352619232.-210214037_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk",
             "version_name":"【GmailFix】 Arm64-v8a + Armeabi-v7a 21.02.14 (120400-352619232) beta",
@@ -37,6 +27,11 @@
         
     },
     "st":{
+        "82382410":{
+            "url":"https://github.com/clinux-co/x_google_installer/releases/download/gp_82382410/com.android.vending_23.8.24-21_0_PR_354192728-82382410_minAPI21.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.apk",
+            "version_name":"armeabi-v7a 23.8.24-21 [0] [PR] 354192728",
+            "min_api":21
+        },
         "82321110":{
             "url":"https://github.com/clinux-co/x_google_installer/releases/download/google_2020_12_29/store_82321110.apk",
             "version_name":"armeabi-v7a 23.2.11-21 [0] [PR] 347100967",
