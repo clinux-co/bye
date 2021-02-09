@@ -19,9 +19,15 @@
         }
     },
     "s":{
+        "210214063":{	
+            "url":"https://github.com/clinux-co/x_google_installer/releases/download/s210214063/com.google.android.gms_21.02.14_.110306-352619232.-210214063_minAPI27.armeabi-v7a.320dpi._apkmirror.com.apk",	
+            "version_name":"armeabi-v7a 21.02.14 (110306-352619232)",
+            "note":"该版本仅用于阻止 play 自动更新，如果您需要 Gmail 等软件，请继续使用 GmailFix 直到新的 GmailFix 版本推出，并尽量不要让 Google Play 联网。",
+            "min_api":27
+         },
          "210214037":{
             "url":"https://github.com/clinux-co/x_google_installer/releases/download/210214037/com.google.android.gms_21.02.14_.120400-352619232.-210214037_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk",
-            "version_name":"【GmailFix】 Arm64-v8a + Armeabi-v7a 21.02.14 (120400-352619232) beta",
+            "version_name":"【GmailFix】 arm64-v8a + armeabi-v7a 21.02.14 (120400-352619232) beta",
             "min_api":29
          },
          "205016063":{	
