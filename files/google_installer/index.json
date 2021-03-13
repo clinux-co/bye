@@ -19,6 +19,11 @@
         }
     },
     "s":{
+        "210915037":{
+            "url":"https://github.com/clinux-co/x_google_installer/releases/download/s210915037/com.google.android.gms_21.09.15_.120400-361652764.-210915037_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk",
+            "version_name":"【GmailFix】 arm64-v8a + armeabi-v7a 21.09.15 (120400-361652764) beta",
+            "min_api":29
+        },
         "210613037":{
             "url":"https://github.com/clinux-co/x_google_installer/releases/download/s210613037/com.google.android.gms_21.06.13_.120400-358943053.-210613037_minAPI29.arm64-v8a.armeabi-v7a.nodpi._apkmirror.com.apk",
             "version_name":"【GmailFix】 arm64-v8a + armeabi-v7a 21.06.13 (120400-358943053) beta",
